@@ -1,6 +1,6 @@
 <h1 align="center">Real Estate Data Scraping</h1>
 
-This is a tool that allows a user to scrape any number of pages on the [Apartments.com](http://apartments.com/) website, and create a CSV file for further analysis.
+This is a tool that allows a user to scrape any number of pages on the [Apartments.com](https://www.apartments.com) website, and create a CSV file for further analysis.
 
 ## Links
 
