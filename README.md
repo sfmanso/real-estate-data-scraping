@@ -11,7 +11,7 @@ This is a tool that allows a user to scrape any number of pages on the [Apartmen
 
 - [Python](https://github.com/topics/python)
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-- [Pands](https://github.com/pandas-dev/pandas)
+- [Pandas](https://github.com/pandas-dev/pandas)
 
 ## How to use code
 
